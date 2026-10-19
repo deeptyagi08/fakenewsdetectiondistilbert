@@ -21,5 +21,4 @@ ISOT Fake News dataset (Kaggle), 44,898 articles. The "(Reuters)" tag in real ar
 Trained on 2016-17 US political news, English only. The model learns writing style, it does not verify facts.
 
 ## Tech stack
-Python, PyTorch, Hugging Face Transformers, scikit-learn, Streamlit# fakenewsdetectiondistilbert
-Fake news classifier: TF-IDF + Logistic Regression baseline vs fine-tuned DistilBERT, with a Streamlit demo app
+Python, PyTorch, Hugging Face Transformers, scikit-learn, Streamlit 
